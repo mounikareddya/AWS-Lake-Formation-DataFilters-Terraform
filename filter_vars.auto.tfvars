@@ -1,4 +1,4 @@
-aws_account_id = 892072879472
+aws_account_id = 0123456789
 stack = [
   {
     database_name    = "lakeformation_tutorial_amazon_reviews"
